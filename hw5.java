@@ -5,7 +5,8 @@ public class hw5 {
         int maxUnsigned = 255;
         int negative = -5;
         System.out.println("zero: ");
-        System.out.println("Decimal: " + String.format("%8s", Integer.toBinaryString(zero)).replace(' ', '0'));
+        System.out.println("Decimal: " + zero);
+         System.out.println("8-bit Binary: " + String.format("%8s", Integer.toBinaryString(zero)).replace(' ', '0'));
         System.out.println();
         System.out.println("Largest 8-bit unigned value: ");
         System.out.println("Decimal: " + maxUnsigned);
