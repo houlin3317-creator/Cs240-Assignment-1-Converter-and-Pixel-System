@@ -39,9 +39,10 @@ Hexadecimal: A
 ## Boundary Tests
 The project uses 8-bit values for boundary testing.
 zero: 
-Decimal: 00000000
+Decimal: 0
+8-bit Binary: 00000000
 
-Largest 8-bit unigned value: 
+Largest 8-bit unsigned value: 
 Decimal: 255
 Binary: 11111111
 Octal: 377
