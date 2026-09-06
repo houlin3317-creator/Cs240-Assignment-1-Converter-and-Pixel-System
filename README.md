@@ -54,7 +54,7 @@ Decimal: -5
 
 ## Image Processing
 hw3pix.java reads img.png and saves the RGB pixel values to output.txt.
-hw4.java reads output.txt and creates reconstructed.png.
+hw4.java reads output.txt and creates output.png
 
 ## Sources / Collaboration
 Java documentation was referenced for image processing and number conversion.
